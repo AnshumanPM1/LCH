@@ -1,1 +1,1 @@
-FROM ansh2006/anshumanbot:render
+FROM ansh2006/anshumanbot:latest
